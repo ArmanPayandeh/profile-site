@@ -1,5 +1,5 @@
 
-# the main source app in master branch
+# NOTES : the main source app in master branch
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
